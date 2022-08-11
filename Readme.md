@@ -8,7 +8,7 @@
 
 - 👨‍💻 Certified in both F/E and B/E technologies.
 
-- 💬 Ask me about **React, Node, Express, MongoDB, C.**
+- 💬 Ask me about **React, Node, Express, MongoDB, C, C++, Python.**
 
 - 📫 How to reach me **prateek.srvastav@gmail.com**
 
