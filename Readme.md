@@ -48,6 +48,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prateek-Srivastav&column=6&margin-w=10&margin-h=10&theme=radical" alt="Prateek-Srivastav" /></a> </p>
 <br/>
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 <p align="center">
