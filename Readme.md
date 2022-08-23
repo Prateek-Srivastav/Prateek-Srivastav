@@ -48,6 +48,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prateek-Srivastav&column=6&margin-w=10&margin-h=10&theme=radical" alt="Prateek-Srivastav" /></a> </p>
 <br/>
 
+<!--START_SECTION:activity-->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=See%20you%20next%20time🤗.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
