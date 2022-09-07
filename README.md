@@ -51,11 +51,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1647](https://github.com/EddieHubCommunity/LinkFree/pull/1647) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#52433](https://github.com/firstcontributions/first-contributions/pull/52433) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. 💪 Opened PR [#116](https://github.com/collab-community/journey-book/pull/116) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-4. 🗣 Commented on [#114](https://github.com/collab-community/journey-book/issues/114) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
-5. 🗣 Commented on [#113](https://github.com/collab-community/journey-book/issues/113) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+1. ❗️ Opened issue [#5276](https://github.com/EddieHubCommunity/support/issues/5276) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#1647](https://github.com/EddieHubCommunity/LinkFree/pull/1647) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#52433](https://github.com/firstcontributions/first-contributions/pull/52433) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 💪 Opened PR [#116](https://github.com/collab-community/journey-book/pull/116) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
+5. 🗣 Commented on [#114](https://github.com/collab-community/journey-book/issues/114) in [collab-community/journey-book](https://github.com/collab-community/journey-book)
 <!--END_SECTION:activity-->
 
 <p align="center">
