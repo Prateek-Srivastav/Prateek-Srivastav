@@ -4,11 +4,13 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prateek-Srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="Prateek-Srivastav" /> </p>
 
-- 🌱 I’m open for work and services as a **Full-Stack MERN Developer.**
+- 🌱 I’m open for work and services as a **ML Engineer.**
+  
+- Tinkering with AI/ML.
 
 - 👨‍💻 Certified in both F/E and B/E technologies.
 
-- 💬 Ask me about **React, Node, Express, MongoDB, C, C++, Python.**
+- 💬 Ask me about **React, Node, Express, MongoDB, C, C++, Python, Pytorch, Tensorflow, Transformer.**
 
 - 📫 How to reach me **prateek.srvastav@gmail.com**
 
@@ -28,6 +30,7 @@
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://www.illumina.com/content/dam/illumina-marketing/images/company/doing-business/aws-logo-web-graphic.jpg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="LINUX" width="40" height="40"/> </a> 
+<a href="https://www.pytorch.org/" target="_blank"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/PyTorch_Symbol_01_OrangeOnTransparent_nUWxXkQ.png" alt="pytorch" width="40" height="40"/> </a> 
   
 </p>
 
