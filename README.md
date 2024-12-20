@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Prateek Srivastava</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Prateek Srivastav</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Engineer;A%20tech%20enthusiast;Always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
